@@ -325,18 +325,6 @@ footer a {
         display: block;
     }
 
-    /* #openBurger {
-        display: block;
-    }
-
-    .burger-icone span {
-        display: block;
-        width: 35px;
-        height: 5px;
-        background-color: black;
-        margin: 6px 0;
-    } */
-
     .presentation {
         width: 100%;
         height: auto;
@@ -396,6 +384,14 @@ footer a {
 
     .troisOptions .textee {
         font-size: 15px;
+    }
+
+    .troisOptions .btn1 {
+        width: 52%;
+    }
+
+    .troisOptions .btn2 {
+        width: 60%;
     }
 
     .qsnTitre {
